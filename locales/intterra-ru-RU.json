@@ -1,0 +1,15 @@
+{
+  "PLOWING": "Вспашка",
+  "BOWLING": "Боронование",
+  "FERTILIZATION": "Внесение удобрений",
+  "WATERING": "Полив",
+  "RIGGING": "Прикатывание",
+  "HARVESTING": "Сбор урожая",
+  "EXCELLENT": "Отлично",
+  "SATISFACTORILY": "Удовлетворительно",
+  "BADLY": "Плохо",
+  "NO_RATING": "Нет оценки",
+  "WINTER_WHEAT" : "Пшеница озимая",
+  "SPRING_WHEAT" : "Пшеница яровая",
+  "ADD_OPERATION" : "Добавить операцию"
+}
